@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Chat.BusConsumer": {
+      "commandName": "Executable"
+    }
+  }
+}
